@@ -1,0 +1,11 @@
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\bin\Debug\MusicTools.exe.config
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\bin\Debug\MusicTools.exe
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\bin\Debug\MusicTools.pdb
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\obj\Debug\MusicTools.csprojAssemblyReference.cache
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\obj\Debug\MusicTools.Form1.resources
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\obj\Debug\MusicTools.Properties.Resources.resources
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\obj\Debug\MusicTools.csproj.GenerateResource.cache
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\obj\Debug\MusicTools.csproj.CoreCompileInputs.cache
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\obj\Debug\MusicTools.exe
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\obj\Debug\MusicTools.pdb
+C:\Users\What is Vladislav\Desktop\education\second course\Программирование_Бахвалова\четвертая лаба\MusicTools\obj\Debug\MusicTools.Form2.resources
